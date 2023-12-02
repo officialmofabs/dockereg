@@ -3,7 +3,7 @@
 # https://docs.docker.com/reference/builder/
 
 FROM ruby:2.6.0-alpine
-MAINTAINER Mike Heijmans <parabuzzle@gmail.com>
+MAINTAINER Moses Fabs <officialmofabs@outlook.com>
 
 # Add env variables
 ENV PORT=80 \
